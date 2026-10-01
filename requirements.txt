@@ -1,0 +1,9 @@
+#Lista de bibliotecas utilizadas
+
+ultralytics
+roboflow
+opencv-python
+numpy
+pandas
+matplotlib
+pyyaml
